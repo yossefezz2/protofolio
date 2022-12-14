@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+}
+.mainImg{
+    background: url("../images/garrett-parker-DlkF4-dbCOU-unsplash.jpg") no-repeat ;
+    background-size: cover;
+    opacity: 0.8;
+    width: 100%;
+    height: 100vh;
+}
+.mainImg2{
+    background-color: #edeef3;
+    background-size: cover;
+    background-attachment: fixed;
+    opacity: 0.8;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.main-text{
+    opacity: 1;
+    width: 100%;
+    padding-top: 15%;
+    color: #fff;
+}
+.kalam1{
+    font-weight: 600;
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+.kalam2{
+}
+.kalamTop{
+    font-size: 55px;
+}
+.skills{
+    margin: 30px 6%;
+}
+.PROGRAMMING{
+    margin: 30px 6%;
+}
+.edu{
+    margin: 30px 6%;
+}
+.kalamnono{color: brown;margin: 10px 4px;}
+.kalamEdu{font-size: 17px;line-height: 1.5;margin: 10px 3px;}
+li{
+    margin: 10px 10px;
+}
+ul{
+    margin: 10px 4px;
+    padding: 0px;
+}

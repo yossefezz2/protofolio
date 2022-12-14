@@ -1,0 +1,19 @@
+.navMain{
+    background-color: #113551;
+    padding: 20px;
+    text-align: center;
+}
+body{
+    background-color: #edeef3;
+    margin: 0px;
+}
+.a1{
+    color:#fff;
+    text-align: center;
+}
+.navDiv{
+    
+display: inline;
+    
+margin-right: 50px;
+}
